@@ -3,7 +3,7 @@
 # Sequential: Eksekusi code secara berurutan
 print("Hello World")
 print("by Indra Rizky Firmansyah")
-print("July 2021")
+print("12 July 2021")
 print("-" * 25)
 
 # Percabangan : Eksekusi Terpilih
